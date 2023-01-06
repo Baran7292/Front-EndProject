@@ -1,0 +1,7 @@
+https://iwconnect.com/creating-a-multilingual-website-using-laravel-localization/
+
+https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-laravel-project
+
+https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-laravel-project
+
+https://divpusher.com/blog/how-to-make-a-laravel-website-multilingual/
